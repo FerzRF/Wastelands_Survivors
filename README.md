@@ -2,5 +2,4 @@
 The game by the best students from MIREA. 
 
 
-АХТУНГ 
-ЭТо разработка нашей игры
+[Ссылка на игру](https://drive.google.com/drive/folders/1KGrJMc0_pLYcqSJjg00l-JrTWGd3jhAk?usp=sharing)
